@@ -454,6 +454,10 @@ The data ranges used for this color coding roughly follows the ranges for elite,
 *   **Red:** Anything greater than a month
     *   This is expressed as “One year” 
 
+
+
+Hi, edited by Kiran
+
 **Change Failure Rate**
 
 *   **Green:** Less than 15%
